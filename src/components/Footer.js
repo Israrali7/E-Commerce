@@ -2,6 +2,9 @@ function Footer(){
 return(
     <div>
     <footer className="bg-zinc-800">
+        <div>
+        {/* <FontAwesomeIcon icon="fa-brands fa-facebook" /> */}
+        </div>
         <div className="flex m-8 p-6 space-x-28 ml-9 mb-0" >
             <div >
             <h3 className=" text-lg text-white mb-6 font-semibold" >Get In Touch</h3>
